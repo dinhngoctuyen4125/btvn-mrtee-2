@@ -1,4 +1,3 @@
-from heapq import merge
 import openpyxl
 
 book = openpyxl.load_workbook('Ex2.xlsx')
